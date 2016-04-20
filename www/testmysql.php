@@ -1,7 +1,21 @@
-<?php 
-$link = mysql_connect('hostname','dbuser','dbpassword'); 
-if (!$link) { 
-	die('Could not connect to MySQL: ' . mysql_error()); 
-} 
-echo 'Connection OK'; mysql_close($link); 
-?> 
+<?php
+
+	DEFINE('DB_USER','root');
+	DEFINE('DB_HOST','localhost');
+	DEFINE('DB_PASSWORD','sharpshooter');
+	DEFINE('DB_DATABASE','form');
+		
+		
+	$dbc = mysqli_connect(DB_HOST,DB_USER,DB_PASSWORD,DB_DATABASE);
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+
+?>

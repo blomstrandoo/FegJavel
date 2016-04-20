@@ -1,0 +1,432 @@
+[28-Jan-2016 08:34:57 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'c:/wamp/bin/php/php5.5.12/ext/php_intl.dll' - The specified module could not be found.
+ in Unknown on line 0
+[28-Jan-2016 08:34:57 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'c:/wamp/bin/php/php5.5.12/ext/php_ldap.dll' - The specified module could not be found.
+ in Unknown on line 0
+[28-Jan-2016 08:34:58 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'c:/wamp/bin/php/php5.5.12/ext/php_intl.dll' - The specified module could not be found.
+ in Unknown on line 0
+[28-Jan-2016 08:34:58 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'c:/wamp/bin/php/php5.5.12/ext/php_ldap.dll' - The specified module could not be found.
+ in Unknown on line 0
+[28-Jan-2016 17:28:41 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'c:/wamp/bin/php/php5.5.12/ext/php_intl.dll' - The specified module could not be found.
+ in Unknown on line 0
+[28-Jan-2016 17:28:41 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'c:/wamp/bin/php/php5.5.12/ext/php_ldap.dll' - The specified module could not be found.
+ in Unknown on line 0
+[28-Jan-2016 17:28:41 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'c:/wamp/bin/php/php5.5.12/ext/php_intl.dll' - The specified module could not be found.
+ in Unknown on line 0
+[28-Jan-2016 17:28:41 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'c:/wamp/bin/php/php5.5.12/ext/php_ldap.dll' - The specified module could not be found.
+ in Unknown on line 0
+[01-Feb-2016 12:33:44 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'c:/wamp/bin/php/php5.5.12/ext/php_intl.dll' - The specified module could not be found.
+ in Unknown on line 0
+[01-Feb-2016 12:33:44 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'c:/wamp/bin/php/php5.5.12/ext/php_ldap.dll' - The specified module could not be found.
+ in Unknown on line 0
+[01-Feb-2016 12:33:45 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'c:/wamp/bin/php/php5.5.12/ext/php_intl.dll' - The specified module could not be found.
+ in Unknown on line 0
+[01-Feb-2016 12:33:45 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'c:/wamp/bin/php/php5.5.12/ext/php_ldap.dll' - The specified module could not be found.
+ in Unknown on line 0
+[03-Feb-2016 09:23:56 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'c:/wamp/bin/php/php5.5.12/ext/php_intl.dll' - The specified module could not be found.
+ in Unknown on line 0
+[03-Feb-2016 09:23:56 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'c:/wamp/bin/php/php5.5.12/ext/php_ldap.dll' - The specified module could not be found.
+ in Unknown on line 0
+[03-Feb-2016 09:23:57 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'c:/wamp/bin/php/php5.5.12/ext/php_intl.dll' - The specified module could not be found.
+ in Unknown on line 0
+[03-Feb-2016 09:23:57 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'c:/wamp/bin/php/php5.5.12/ext/php_ldap.dll' - The specified module could not be found.
+ in Unknown on line 0
+[03-Feb-2016 11:48:58 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'c:/wamp/bin/php/php5.5.12/ext/php_intl.dll' - The specified module could not be found.
+ in Unknown on line 0
+[03-Feb-2016 11:48:58 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'c:/wamp/bin/php/php5.5.12/ext/php_ldap.dll' - The specified module could not be found.
+ in Unknown on line 0
+[03-Feb-2016 11:48:59 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'c:/wamp/bin/php/php5.5.12/ext/php_intl.dll' - The specified module could not be found.
+ in Unknown on line 0
+[03-Feb-2016 11:48:59 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'c:/wamp/bin/php/php5.5.12/ext/php_ldap.dll' - The specified module could not be found.
+ in Unknown on line 0
+[05-Feb-2016 14:43:49 Europe/Paris] PHP Warning:  require_once(../mysql_connect_prov20160201.php): failed to open stream: No such file or directory in C:\wamp\www\index.php on line 4
+[05-Feb-2016 14:43:49 Europe/Paris] PHP Stack trace:
+[05-Feb-2016 14:43:49 Europe/Paris] PHP   1. {main}() C:\wamp\www\index.php:0
+[05-Feb-2016 14:43:49 Europe/Paris] PHP Fatal error:  require_once(): Failed opening required '../mysql_connect_prov20160201.php' (include_path='.;C:\php\pear') in C:\wamp\www\index.php on line 4
+[05-Feb-2016 14:43:49 Europe/Paris] PHP Stack trace:
+[05-Feb-2016 14:43:49 Europe/Paris] PHP   1. {main}() C:\wamp\www\index.php:0
+[05-Feb-2016 15:01:19 Europe/Paris] PHP Warning:  require_once(../test.php): failed to open stream: No such file or directory in C:\wamp\www\index.php on line 4
+[05-Feb-2016 15:01:19 Europe/Paris] PHP Stack trace:
+[05-Feb-2016 15:01:19 Europe/Paris] PHP   1. {main}() C:\wamp\www\index.php:0
+[05-Feb-2016 15:01:19 Europe/Paris] PHP Fatal error:  require_once(): Failed opening required '../test.php' (include_path='.;C:\php\pear') in C:\wamp\www\index.php on line 4
+[05-Feb-2016 15:01:19 Europe/Paris] PHP Stack trace:
+[05-Feb-2016 15:01:19 Europe/Paris] PHP   1. {main}() C:\wamp\www\index.php:0
+[05-Feb-2016 15:01:56 Europe/Paris] PHP Warning:  require_once(../index.php): failed to open stream: No such file or directory in C:\wamp\www\index.php on line 4
+[05-Feb-2016 15:01:56 Europe/Paris] PHP Stack trace:
+[05-Feb-2016 15:01:56 Europe/Paris] PHP   1. {main}() C:\wamp\www\index.php:0
+[05-Feb-2016 15:01:56 Europe/Paris] PHP Fatal error:  require_once(): Failed opening required '../index.php' (include_path='.;C:\php\pear') in C:\wamp\www\index.php on line 4
+[05-Feb-2016 15:01:56 Europe/Paris] PHP Stack trace:
+[05-Feb-2016 15:01:56 Europe/Paris] PHP   1. {main}() C:\wamp\www\index.php:0
+[05-Feb-2016 15:02:56 Europe/Paris] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in C:\wamp\mysql_connect.php on line 9
+[05-Feb-2016 15:02:56 Europe/Paris] PHP Stack trace:
+[05-Feb-2016 15:02:56 Europe/Paris] PHP   1. {main}() C:\wamp\www\index.php:0
+[05-Feb-2016 15:02:56 Europe/Paris] PHP   2. require_once() C:\wamp\www\index.php:4
+[05-Feb-2016 15:02:56 Europe/Paris] PHP   3. mysqli_connect() C:\wamp\mysql_connect.php:9
+[05-Feb-2016 15:02:56 Europe/Paris] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in C:\wamp\www\index.php on line 10
+[05-Feb-2016 15:02:56 Europe/Paris] PHP Stack trace:
+[05-Feb-2016 15:02:56 Europe/Paris] PHP   1. {main}() C:\wamp\www\index.php:0
+[05-Feb-2016 15:02:56 Europe/Paris] PHP   2. mysqli_query() C:\wamp\www\index.php:10
+[05-Feb-2016 15:02:56 Europe/Paris] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in C:\wamp\www\index.php on line 13
+[05-Feb-2016 15:02:56 Europe/Paris] PHP Stack trace:
+[05-Feb-2016 15:02:56 Europe/Paris] PHP   1. {main}() C:\wamp\www\index.php:0
+[05-Feb-2016 15:02:56 Europe/Paris] PHP   2. mysqli_fetch_array() C:\wamp\www\index.php:13
+[05-Feb-2016 15:05:38 Europe/Paris] PHP Warning:  require_once(../testmysql.php): failed to open stream: No such file or directory in C:\wamp\www\index.php on line 4
+[05-Feb-2016 15:05:38 Europe/Paris] PHP Stack trace:
+[05-Feb-2016 15:05:38 Europe/Paris] PHP   1. {main}() C:\wamp\www\index.php:0
+[05-Feb-2016 15:05:38 Europe/Paris] PHP Fatal error:  require_once(): Failed opening required '../testmysql.php' (include_path='.;C:\php\pear') in C:\wamp\www\index.php on line 4
+[05-Feb-2016 15:05:38 Europe/Paris] PHP Stack trace:
+[05-Feb-2016 15:05:38 Europe/Paris] PHP   1. {main}() C:\wamp\www\index.php:0
+[05-Feb-2016 15:20:51 Europe/Paris] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in C:\wamp\www\index.php on line 55
+[05-Feb-2016 15:20:51 Europe/Paris] PHP Stack trace:
+[05-Feb-2016 15:20:51 Europe/Paris] PHP   1. {main}() C:\wamp\www\index.php:0
+[05-Feb-2016 15:20:51 Europe/Paris] PHP   2. mysqli_fetch_array() C:\wamp\www\index.php:55
+[05-Feb-2016 15:28:29 Europe/Paris] PHP Parse error:  syntax error, unexpected '<' in C:\wamp\www\index.php on line 63
+[05-Feb-2016 15:28:32 Europe/Paris] PHP Parse error:  syntax error, unexpected '<' in C:\wamp\www\index.php on line 63
+[05-Feb-2016 15:28:48 Europe/Paris] PHP Parse error:  syntax error, unexpected '<' in C:\wamp\www\index.php on line 63
+[05-Feb-2016 15:29:14 Europe/Paris] PHP Parse error:  syntax error, unexpected '<' in C:\wamp\www\index.php on line 63
+[05-Feb-2016 15:31:01 Europe/Paris] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in C:\wamp\www\index.php on line 55
+[05-Feb-2016 15:31:01 Europe/Paris] PHP Stack trace:
+[05-Feb-2016 15:31:01 Europe/Paris] PHP   1. {main}() C:\wamp\www\index.php:0
+[05-Feb-2016 15:31:01 Europe/Paris] PHP   2. mysqli_fetch_array() C:\wamp\www\index.php:55
+[05-Feb-2016 15:31:44 Europe/Paris] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in C:\wamp\www\index.php on line 55
+[05-Feb-2016 15:31:44 Europe/Paris] PHP Stack trace:
+[05-Feb-2016 15:31:44 Europe/Paris] PHP   1. {main}() C:\wamp\www\index.php:0
+[05-Feb-2016 15:31:44 Europe/Paris] PHP   2. mysqli_fetch_array() C:\wamp\www\index.php:55
+[05-Feb-2016 15:32:24 Europe/Paris] PHP Parse error:  syntax error, unexpected 'Dubai' (T_STRING) in C:\wamp\www\index.php on line 49
+[05-Feb-2016 15:33:15 Europe/Paris] PHP Parse error:  syntax error, unexpected 'Brazil' (T_STRING) in C:\wamp\www\index.php on line 49
+[05-Feb-2016 15:33:34 Europe/Paris] PHP Parse error:  syntax error, unexpected 'br' (T_STRING) in C:\wamp\www\index.php on line 49
+[05-Feb-2016 15:35:04 Europe/Paris] PHP Parse error:  syntax error, unexpected '<' in C:\wamp\www\index.php on line 64
+[05-Feb-2016 15:35:45 Europe/Paris] PHP Parse error:  syntax error, unexpected '<' in C:\wamp\www\index.php on line 64
+[05-Feb-2016 15:39:33 Europe/Paris] PHP Parse error:  syntax error, unexpected '<' in C:\wamp\www\index.php on line 64
+[05-Feb-2016 15:39:34 Europe/Paris] PHP Parse error:  syntax error, unexpected '<' in C:\wamp\www\index.php on line 64
+[05-Feb-2016 15:46:06 Europe/Paris] PHP Parse error:  syntax error, unexpected 'Countryname' (T_STRING) in C:\wamp\www\index.php on line 79
+[05-Feb-2016 15:52:02 Europe/Paris] PHP Parse error:  syntax error, unexpected ')' in C:\wamp\www\index.php on line 81
+[05-Feb-2016 16:04:03 Europe/Paris] PHP Parse error:  syntax error, unexpected ')' in C:\wamp\www\index.php on line 81
+[05-Feb-2016 16:04:04 Europe/Paris] PHP Parse error:  syntax error, unexpected ')' in C:\wamp\www\index.php on line 81
+[05-Feb-2016 16:04:05 Europe/Paris] PHP Parse error:  syntax error, unexpected ')' in C:\wamp\www\index.php on line 81
+[05-Feb-2016 16:04:06 Europe/Paris] PHP Parse error:  syntax error, unexpected ')' in C:\wamp\www\index.php on line 81
+[05-Feb-2016 16:04:06 Europe/Paris] PHP Parse error:  syntax error, unexpected ')' in C:\wamp\www\index.php on line 81
+[05-Feb-2016 16:04:06 Europe/Paris] PHP Parse error:  syntax error, unexpected ')' in C:\wamp\www\index.php on line 81
+[05-Feb-2016 16:04:06 Europe/Paris] PHP Parse error:  syntax error, unexpected ')' in C:\wamp\www\index.php on line 81
+[05-Feb-2016 16:04:06 Europe/Paris] PHP Parse error:  syntax error, unexpected ')' in C:\wamp\www\index.php on line 81
+[05-Feb-2016 16:04:54 Europe/Paris] PHP Parse error:  syntax error, unexpected ')' in C:\wamp\www\index.php on line 81
+[05-Feb-2016 16:04:55 Europe/Paris] PHP Parse error:  syntax error, unexpected ')' in C:\wamp\www\index.php on line 81
+[05-Feb-2016 16:05:43 Europe/Paris] PHP Parse error:  syntax error, unexpected ')' in C:\wamp\www\index.php on line 81
+[05-Feb-2016 16:07:35 Europe/Paris] PHP Fatal error:  Call to undefined function myqli_fetch_array() in C:\wamp\www\index.php on line 81
+[05-Feb-2016 16:07:35 Europe/Paris] PHP Stack trace:
+[05-Feb-2016 16:07:35 Europe/Paris] PHP   1. {main}() C:\wamp\www\index.php:0
+[10-Feb-2016 11:37:09 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'c:/wamp/bin/php/php5.5.12/ext/php_intl.dll' - The specified module could not be found.
+ in Unknown on line 0
+[10-Feb-2016 11:37:09 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'c:/wamp/bin/php/php5.5.12/ext/php_ldap.dll' - The specified module could not be found.
+ in Unknown on line 0
+[10-Feb-2016 11:37:10 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'c:/wamp/bin/php/php5.5.12/ext/php_intl.dll' - The specified module could not be found.
+ in Unknown on line 0
+[10-Feb-2016 11:37:10 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'c:/wamp/bin/php/php5.5.12/ext/php_ldap.dll' - The specified module could not be found.
+ in Unknown on line 0
+[10-Feb-2016 13:28:35 Europe/Paris] PHP Fatal error:  Call to undefined function quire_once() in C:\wamp\www\skicka\index.php on line 2
+[10-Feb-2016 13:28:35 Europe/Paris] PHP Stack trace:
+[10-Feb-2016 13:28:35 Europe/Paris] PHP   1. {main}() C:\wamp\www\skicka\index.php:0
+[10-Feb-2016 13:28:45 Europe/Paris] PHP Warning:  require_once(../../mysql_connect): failed to open stream: No such file or directory in C:\wamp\www\skicka\index.php on line 2
+[10-Feb-2016 13:28:45 Europe/Paris] PHP Stack trace:
+[10-Feb-2016 13:28:45 Europe/Paris] PHP   1. {main}() C:\wamp\www\skicka\index.php:0
+[10-Feb-2016 13:28:45 Europe/Paris] PHP Fatal error:  require_once(): Failed opening required '../../mysql_connect' (include_path='.;C:\php\pear') in C:\wamp\www\skicka\index.php on line 2
+[10-Feb-2016 13:28:45 Europe/Paris] PHP Stack trace:
+[10-Feb-2016 13:28:45 Europe/Paris] PHP   1. {main}() C:\wamp\www\skicka\index.php:0
+[10-Feb-2016 13:28:53 Europe/Paris] PHP Warning:  require_once(../../../mysql_connect): failed to open stream: No such file or directory in C:\wamp\www\skicka\index.php on line 2
+[10-Feb-2016 13:28:53 Europe/Paris] PHP Stack trace:
+[10-Feb-2016 13:28:53 Europe/Paris] PHP   1. {main}() C:\wamp\www\skicka\index.php:0
+[10-Feb-2016 13:28:53 Europe/Paris] PHP Fatal error:  require_once(): Failed opening required '../../../mysql_connect' (include_path='.;C:\php\pear') in C:\wamp\www\skicka\index.php on line 2
+[10-Feb-2016 13:28:53 Europe/Paris] PHP Stack trace:
+[10-Feb-2016 13:28:53 Europe/Paris] PHP   1. {main}() C:\wamp\www\skicka\index.php:0
+[10-Feb-2016 13:29:21 Europe/Paris] PHP Notice:  Undefined index: Namn in C:\wamp\www\skicka\index.php on line 8
+[10-Feb-2016 13:29:21 Europe/Paris] PHP Stack trace:
+[10-Feb-2016 13:29:21 Europe/Paris] PHP   1. {main}() C:\wamp\www\skicka\index.php:0
+[10-Feb-2016 13:29:21 Europe/Paris] PHP Notice:  Undefined index: Efternamn in C:\wamp\www\skicka\index.php on line 9
+[10-Feb-2016 13:29:21 Europe/Paris] PHP Stack trace:
+[10-Feb-2016 13:29:21 Europe/Paris] PHP   1. {main}() C:\wamp\www\skicka\index.php:0
+[10-Feb-2016 13:29:21 Europe/Paris] PHP Notice:  Undefined index: Favorit_film in C:\wamp\www\skicka\index.php on line 10
+[10-Feb-2016 13:29:21 Europe/Paris] PHP Stack trace:
+[10-Feb-2016 13:29:21 Europe/Paris] PHP   1. {main}() C:\wamp\www\skicka\index.php:0
+[10-Feb-2016 13:29:21 Europe/Paris] PHP Notice:  Undefined index: Favorit_Anime in C:\wamp\www\skicka\index.php on line 11
+[10-Feb-2016 13:29:21 Europe/Paris] PHP Stack trace:
+[10-Feb-2016 13:29:21 Europe/Paris] PHP   1. {main}() C:\wamp\www\skicka\index.php:0
+[10-Feb-2016 13:29:21 Europe/Paris] PHP Notice:  Undefined index: Tycker_du_att_du_är_cool? in C:\wamp\www\skicka\index.php on line 12
+[10-Feb-2016 13:29:21 Europe/Paris] PHP Stack trace:
+[10-Feb-2016 13:29:21 Europe/Paris] PHP   1. {main}() C:\wamp\www\skicka\index.php:0
+[10-Feb-2016 13:30:18 Europe/Paris] PHP Notice:  Undefined index: Namn in C:\wamp\www\skicka\index.php on line 8
+[10-Feb-2016 13:30:18 Europe/Paris] PHP Stack trace:
+[10-Feb-2016 13:30:18 Europe/Paris] PHP   1. {main}() C:\wamp\www\skicka\index.php:0
+[10-Feb-2016 13:30:18 Europe/Paris] PHP Notice:  Undefined index: Efternamn in C:\wamp\www\skicka\index.php on line 9
+[10-Feb-2016 13:30:18 Europe/Paris] PHP Stack trace:
+[10-Feb-2016 13:30:18 Europe/Paris] PHP   1. {main}() C:\wamp\www\skicka\index.php:0
+[10-Feb-2016 13:30:18 Europe/Paris] PHP Notice:  Undefined index: Favorit_film in C:\wamp\www\skicka\index.php on line 10
+[10-Feb-2016 13:30:18 Europe/Paris] PHP Stack trace:
+[10-Feb-2016 13:30:18 Europe/Paris] PHP   1. {main}() C:\wamp\www\skicka\index.php:0
+[10-Feb-2016 13:30:18 Europe/Paris] PHP Notice:  Undefined index: Favorit_Anime in C:\wamp\www\skicka\index.php on line 11
+[10-Feb-2016 13:30:18 Europe/Paris] PHP Stack trace:
+[10-Feb-2016 13:30:18 Europe/Paris] PHP   1. {main}() C:\wamp\www\skicka\index.php:0
+[10-Feb-2016 13:30:18 Europe/Paris] PHP Notice:  Undefined index: Tycker_du_att_du_är_cool? in C:\wamp\www\skicka\index.php on line 12
+[10-Feb-2016 13:30:18 Europe/Paris] PHP Stack trace:
+[10-Feb-2016 13:30:18 Europe/Paris] PHP   1. {main}() C:\wamp\www\skicka\index.php:0
+[10-Feb-2016 13:30:52 Europe/Paris] PHP Notice:  Undefined index: Namn in C:\wamp\www\skicka\index.php on line 8
+[10-Feb-2016 13:30:52 Europe/Paris] PHP Stack trace:
+[10-Feb-2016 13:30:52 Europe/Paris] PHP   1. {main}() C:\wamp\www\skicka\index.php:0
+[10-Feb-2016 13:30:52 Europe/Paris] PHP Notice:  Undefined index: Efternamn in C:\wamp\www\skicka\index.php on line 9
+[10-Feb-2016 13:30:52 Europe/Paris] PHP Stack trace:
+[10-Feb-2016 13:30:52 Europe/Paris] PHP   1. {main}() C:\wamp\www\skicka\index.php:0
+[10-Feb-2016 13:30:52 Europe/Paris] PHP Notice:  Undefined index: Favorit_film in C:\wamp\www\skicka\index.php on line 10
+[10-Feb-2016 13:30:52 Europe/Paris] PHP Stack trace:
+[10-Feb-2016 13:30:52 Europe/Paris] PHP   1. {main}() C:\wamp\www\skicka\index.php:0
+[10-Feb-2016 13:30:52 Europe/Paris] PHP Notice:  Undefined index: Favorit_Anime in C:\wamp\www\skicka\index.php on line 11
+[10-Feb-2016 13:30:52 Europe/Paris] PHP Stack trace:
+[10-Feb-2016 13:30:52 Europe/Paris] PHP   1. {main}() C:\wamp\www\skicka\index.php:0
+[10-Feb-2016 13:30:52 Europe/Paris] PHP Notice:  Undefined index: Tycker_du_att_du_är_cool? in C:\wamp\www\skicka\index.php on line 12
+[10-Feb-2016 13:30:52 Europe/Paris] PHP Stack trace:
+[10-Feb-2016 13:30:52 Europe/Paris] PHP   1. {main}() C:\wamp\www\skicka\index.php:0
+[10-Feb-2016 13:32:16 Europe/Paris] PHP Notice:  Undefined index: Namn in C:\wamp\www\skicka\index.php on line 8
+[10-Feb-2016 13:32:16 Europe/Paris] PHP Stack trace:
+[10-Feb-2016 13:32:16 Europe/Paris] PHP   1. {main}() C:\wamp\www\skicka\index.php:0
+[10-Feb-2016 13:32:16 Europe/Paris] PHP Notice:  Undefined index: Efternamn in C:\wamp\www\skicka\index.php on line 9
+[10-Feb-2016 13:32:16 Europe/Paris] PHP Stack trace:
+[10-Feb-2016 13:32:16 Europe/Paris] PHP   1. {main}() C:\wamp\www\skicka\index.php:0
+[10-Feb-2016 13:32:16 Europe/Paris] PHP Notice:  Undefined index: Favorit_film in C:\wamp\www\skicka\index.php on line 10
+[10-Feb-2016 13:32:16 Europe/Paris] PHP Stack trace:
+[10-Feb-2016 13:32:16 Europe/Paris] PHP   1. {main}() C:\wamp\www\skicka\index.php:0
+[10-Feb-2016 13:32:16 Europe/Paris] PHP Notice:  Undefined index: Favorit_Anime in C:\wamp\www\skicka\index.php on line 11
+[10-Feb-2016 13:32:16 Europe/Paris] PHP Stack trace:
+[10-Feb-2016 13:32:16 Europe/Paris] PHP   1. {main}() C:\wamp\www\skicka\index.php:0
+[10-Feb-2016 13:32:16 Europe/Paris] PHP Notice:  Undefined index: Tycker_du_att_du_är_cool? in C:\wamp\www\skicka\index.php on line 12
+[10-Feb-2016 13:32:16 Europe/Paris] PHP Stack trace:
+[10-Feb-2016 13:32:16 Europe/Paris] PHP   1. {main}() C:\wamp\www\skicka\index.php:0
+[10-Feb-2016 13:32:19 Europe/Paris] PHP Notice:  Undefined index: Namn in C:\wamp\www\skicka\index.php on line 8
+[10-Feb-2016 13:32:19 Europe/Paris] PHP Stack trace:
+[10-Feb-2016 13:32:19 Europe/Paris] PHP   1. {main}() C:\wamp\www\skicka\index.php:0
+[10-Feb-2016 13:32:19 Europe/Paris] PHP Notice:  Undefined index: Efternamn in C:\wamp\www\skicka\index.php on line 9
+[10-Feb-2016 13:32:19 Europe/Paris] PHP Stack trace:
+[10-Feb-2016 13:32:19 Europe/Paris] PHP   1. {main}() C:\wamp\www\skicka\index.php:0
+[10-Feb-2016 13:32:19 Europe/Paris] PHP Notice:  Undefined index: Favorit_film in C:\wamp\www\skicka\index.php on line 10
+[10-Feb-2016 13:32:19 Europe/Paris] PHP Stack trace:
+[10-Feb-2016 13:32:19 Europe/Paris] PHP   1. {main}() C:\wamp\www\skicka\index.php:0
+[10-Feb-2016 13:32:19 Europe/Paris] PHP Notice:  Undefined index: Favorit_Anime in C:\wamp\www\skicka\index.php on line 11
+[10-Feb-2016 13:32:19 Europe/Paris] PHP Stack trace:
+[10-Feb-2016 13:32:19 Europe/Paris] PHP   1. {main}() C:\wamp\www\skicka\index.php:0
+[10-Feb-2016 13:32:19 Europe/Paris] PHP Notice:  Undefined index: Tycker_du_att_du_är_cool? in C:\wamp\www\skicka\index.php on line 12
+[10-Feb-2016 13:32:19 Europe/Paris] PHP Stack trace:
+[10-Feb-2016 13:32:19 Europe/Paris] PHP   1. {main}() C:\wamp\www\skicka\index.php:0
+[10-Feb-2016 13:32:26 Europe/Paris] PHP Notice:  Undefined index: Namn in C:\wamp\www\skicka\index.php on line 8
+[10-Feb-2016 13:32:26 Europe/Paris] PHP Stack trace:
+[10-Feb-2016 13:32:26 Europe/Paris] PHP   1. {main}() C:\wamp\www\skicka\index.php:0
+[10-Feb-2016 13:32:26 Europe/Paris] PHP Notice:  Undefined index: Efternamn in C:\wamp\www\skicka\index.php on line 9
+[10-Feb-2016 13:32:26 Europe/Paris] PHP Stack trace:
+[10-Feb-2016 13:32:26 Europe/Paris] PHP   1. {main}() C:\wamp\www\skicka\index.php:0
+[10-Feb-2016 13:32:26 Europe/Paris] PHP Notice:  Undefined index: Favorit_film in C:\wamp\www\skicka\index.php on line 10
+[10-Feb-2016 13:32:26 Europe/Paris] PHP Stack trace:
+[10-Feb-2016 13:32:26 Europe/Paris] PHP   1. {main}() C:\wamp\www\skicka\index.php:0
+[10-Feb-2016 13:32:26 Europe/Paris] PHP Notice:  Undefined index: Favorit_Anime in C:\wamp\www\skicka\index.php on line 11
+[10-Feb-2016 13:32:26 Europe/Paris] PHP Stack trace:
+[10-Feb-2016 13:32:26 Europe/Paris] PHP   1. {main}() C:\wamp\www\skicka\index.php:0
+[10-Feb-2016 13:32:26 Europe/Paris] PHP Notice:  Undefined index: Tycker_du_att_du_är_cool? in C:\wamp\www\skicka\index.php on line 12
+[10-Feb-2016 13:32:26 Europe/Paris] PHP Stack trace:
+[10-Feb-2016 13:32:26 Europe/Paris] PHP   1. {main}() C:\wamp\www\skicka\index.php:0
+[10-Feb-2016 13:32:59 Europe/Paris] PHP Notice:  Undefined index: Namn in C:\wamp\www\skicka\index.php on line 8
+[10-Feb-2016 13:32:59 Europe/Paris] PHP Stack trace:
+[10-Feb-2016 13:32:59 Europe/Paris] PHP   1. {main}() C:\wamp\www\skicka\index.php:0
+[10-Feb-2016 13:32:59 Europe/Paris] PHP Notice:  Undefined index: Efternamn in C:\wamp\www\skicka\index.php on line 9
+[10-Feb-2016 13:32:59 Europe/Paris] PHP Stack trace:
+[10-Feb-2016 13:32:59 Europe/Paris] PHP   1. {main}() C:\wamp\www\skicka\index.php:0
+[10-Feb-2016 13:32:59 Europe/Paris] PHP Notice:  Undefined index: Favorit_film in C:\wamp\www\skicka\index.php on line 10
+[10-Feb-2016 13:32:59 Europe/Paris] PHP Stack trace:
+[10-Feb-2016 13:32:59 Europe/Paris] PHP   1. {main}() C:\wamp\www\skicka\index.php:0
+[10-Feb-2016 13:32:59 Europe/Paris] PHP Notice:  Undefined index: Favorit_Anime in C:\wamp\www\skicka\index.php on line 11
+[10-Feb-2016 13:32:59 Europe/Paris] PHP Stack trace:
+[10-Feb-2016 13:32:59 Europe/Paris] PHP   1. {main}() C:\wamp\www\skicka\index.php:0
+[10-Feb-2016 13:32:59 Europe/Paris] PHP Notice:  Undefined index: Tycker_du_att_du_är_cool? in C:\wamp\www\skicka\index.php on line 12
+[10-Feb-2016 13:32:59 Europe/Paris] PHP Stack trace:
+[10-Feb-2016 13:32:59 Europe/Paris] PHP   1. {main}() C:\wamp\www\skicka\index.php:0
+[10-Feb-2016 13:33:07 Europe/Paris] PHP Notice:  Undefined index: Namn in C:\wamp\www\skicka\index.php on line 8
+[10-Feb-2016 13:33:07 Europe/Paris] PHP Stack trace:
+[10-Feb-2016 13:33:07 Europe/Paris] PHP   1. {main}() C:\wamp\www\skicka\index.php:0
+[10-Feb-2016 13:33:07 Europe/Paris] PHP Notice:  Undefined index: Efternamn in C:\wamp\www\skicka\index.php on line 9
+[10-Feb-2016 13:33:07 Europe/Paris] PHP Stack trace:
+[10-Feb-2016 13:33:07 Europe/Paris] PHP   1. {main}() C:\wamp\www\skicka\index.php:0
+[10-Feb-2016 13:33:07 Europe/Paris] PHP Notice:  Undefined index: Favorit_film in C:\wamp\www\skicka\index.php on line 10
+[10-Feb-2016 13:33:07 Europe/Paris] PHP Stack trace:
+[10-Feb-2016 13:33:07 Europe/Paris] PHP   1. {main}() C:\wamp\www\skicka\index.php:0
+[10-Feb-2016 13:33:07 Europe/Paris] PHP Notice:  Undefined index: Favorit_Anime in C:\wamp\www\skicka\index.php on line 11
+[10-Feb-2016 13:33:07 Europe/Paris] PHP Stack trace:
+[10-Feb-2016 13:33:07 Europe/Paris] PHP   1. {main}() C:\wamp\www\skicka\index.php:0
+[10-Feb-2016 13:33:07 Europe/Paris] PHP Notice:  Undefined index: Tycker_du_att_du_är_cool? in C:\wamp\www\skicka\index.php on line 12
+[10-Feb-2016 13:33:07 Europe/Paris] PHP Stack trace:
+[10-Feb-2016 13:33:07 Europe/Paris] PHP   1. {main}() C:\wamp\www\skicka\index.php:0
+[10-Feb-2016 13:33:11 Europe/Paris] PHP Notice:  Undefined index: Namn in C:\wamp\www\skicka\index.php on line 8
+[10-Feb-2016 13:33:11 Europe/Paris] PHP Stack trace:
+[10-Feb-2016 13:33:11 Europe/Paris] PHP   1. {main}() C:\wamp\www\skicka\index.php:0
+[10-Feb-2016 13:33:11 Europe/Paris] PHP Notice:  Undefined index: Efternamn in C:\wamp\www\skicka\index.php on line 9
+[10-Feb-2016 13:33:11 Europe/Paris] PHP Stack trace:
+[10-Feb-2016 13:33:11 Europe/Paris] PHP   1. {main}() C:\wamp\www\skicka\index.php:0
+[10-Feb-2016 13:33:11 Europe/Paris] PHP Notice:  Undefined index: Favorit_film in C:\wamp\www\skicka\index.php on line 10
+[10-Feb-2016 13:33:11 Europe/Paris] PHP Stack trace:
+[10-Feb-2016 13:33:11 Europe/Paris] PHP   1. {main}() C:\wamp\www\skicka\index.php:0
+[10-Feb-2016 13:33:11 Europe/Paris] PHP Notice:  Undefined index: Favorit_Anime in C:\wamp\www\skicka\index.php on line 11
+[10-Feb-2016 13:33:11 Europe/Paris] PHP Stack trace:
+[10-Feb-2016 13:33:11 Europe/Paris] PHP   1. {main}() C:\wamp\www\skicka\index.php:0
+[10-Feb-2016 13:33:11 Europe/Paris] PHP Notice:  Undefined index: Tycker_du_att_du_är_cool? in C:\wamp\www\skicka\index.php on line 12
+[10-Feb-2016 13:33:11 Europe/Paris] PHP Stack trace:
+[10-Feb-2016 13:33:11 Europe/Paris] PHP   1. {main}() C:\wamp\www\skicka\index.php:0
+[10-Feb-2016 13:33:21 Europe/Paris] PHP Notice:  Undefined index: Namn in C:\wamp\www\skicka\index.php on line 8
+[10-Feb-2016 13:33:21 Europe/Paris] PHP Stack trace:
+[10-Feb-2016 13:33:21 Europe/Paris] PHP   1. {main}() C:\wamp\www\skicka\index.php:0
+[10-Feb-2016 13:33:21 Europe/Paris] PHP Notice:  Undefined index: Efternamn in C:\wamp\www\skicka\index.php on line 9
+[10-Feb-2016 13:33:21 Europe/Paris] PHP Stack trace:
+[10-Feb-2016 13:33:21 Europe/Paris] PHP   1. {main}() C:\wamp\www\skicka\index.php:0
+[10-Feb-2016 13:33:21 Europe/Paris] PHP Notice:  Undefined index: Favorit_film in C:\wamp\www\skicka\index.php on line 10
+[10-Feb-2016 13:33:21 Europe/Paris] PHP Stack trace:
+[10-Feb-2016 13:33:21 Europe/Paris] PHP   1. {main}() C:\wamp\www\skicka\index.php:0
+[10-Feb-2016 13:33:21 Europe/Paris] PHP Notice:  Undefined index: Favorit_Anime in C:\wamp\www\skicka\index.php on line 11
+[10-Feb-2016 13:33:21 Europe/Paris] PHP Stack trace:
+[10-Feb-2016 13:33:21 Europe/Paris] PHP   1. {main}() C:\wamp\www\skicka\index.php:0
+[10-Feb-2016 13:33:21 Europe/Paris] PHP Notice:  Undefined index: Tycker_du_att_du_är_cool? in C:\wamp\www\skicka\index.php on line 12
+[10-Feb-2016 13:33:21 Europe/Paris] PHP Stack trace:
+[10-Feb-2016 13:33:21 Europe/Paris] PHP   1. {main}() C:\wamp\www\skicka\index.php:0
+[10-Feb-2016 13:33:27 Europe/Paris] PHP Notice:  Undefined index: Namn in C:\wamp\www\skicka\index.php on line 8
+[10-Feb-2016 13:33:27 Europe/Paris] PHP Stack trace:
+[10-Feb-2016 13:33:27 Europe/Paris] PHP   1. {main}() C:\wamp\www\skicka\index.php:0
+[10-Feb-2016 13:33:27 Europe/Paris] PHP Notice:  Undefined index: Efternamn in C:\wamp\www\skicka\index.php on line 9
+[10-Feb-2016 13:33:27 Europe/Paris] PHP Stack trace:
+[10-Feb-2016 13:33:27 Europe/Paris] PHP   1. {main}() C:\wamp\www\skicka\index.php:0
+[10-Feb-2016 13:33:27 Europe/Paris] PHP Notice:  Undefined index: Favorit_film in C:\wamp\www\skicka\index.php on line 10
+[10-Feb-2016 13:33:27 Europe/Paris] PHP Stack trace:
+[10-Feb-2016 13:33:27 Europe/Paris] PHP   1. {main}() C:\wamp\www\skicka\index.php:0
+[10-Feb-2016 13:33:27 Europe/Paris] PHP Notice:  Undefined index: Favorit_Anime in C:\wamp\www\skicka\index.php on line 11
+[10-Feb-2016 13:33:27 Europe/Paris] PHP Stack trace:
+[10-Feb-2016 13:33:27 Europe/Paris] PHP   1. {main}() C:\wamp\www\skicka\index.php:0
+[10-Feb-2016 13:33:27 Europe/Paris] PHP Notice:  Undefined index: Tycker_du_att_du_är_cool? in C:\wamp\www\skicka\index.php on line 12
+[10-Feb-2016 13:33:27 Europe/Paris] PHP Stack trace:
+[10-Feb-2016 13:33:27 Europe/Paris] PHP   1. {main}() C:\wamp\www\skicka\index.php:0
+[10-Feb-2016 13:35:27 Europe/Paris] PHP Notice:  Undefined index: Namn in C:\wamp\www\skicka\index.php on line 5
+[10-Feb-2016 13:35:27 Europe/Paris] PHP Stack trace:
+[10-Feb-2016 13:35:27 Europe/Paris] PHP   1. {main}() C:\wamp\www\skicka\index.php:0
+[10-Feb-2016 13:35:27 Europe/Paris] PHP Notice:  Undefined index: Namn in C:\wamp\www\skicka\index.php on line 9
+[10-Feb-2016 13:35:27 Europe/Paris] PHP Stack trace:
+[10-Feb-2016 13:35:27 Europe/Paris] PHP   1. {main}() C:\wamp\www\skicka\index.php:0
+[10-Feb-2016 13:35:27 Europe/Paris] PHP Notice:  Undefined index: Efternamn in C:\wamp\www\skicka\index.php on line 10
+[10-Feb-2016 13:35:27 Europe/Paris] PHP Stack trace:
+[10-Feb-2016 13:35:27 Europe/Paris] PHP   1. {main}() C:\wamp\www\skicka\index.php:0
+[10-Feb-2016 13:35:27 Europe/Paris] PHP Notice:  Undefined index: Favorit_film in C:\wamp\www\skicka\index.php on line 11
+[10-Feb-2016 13:35:27 Europe/Paris] PHP Stack trace:
+[10-Feb-2016 13:35:27 Europe/Paris] PHP   1. {main}() C:\wamp\www\skicka\index.php:0
+[10-Feb-2016 13:35:27 Europe/Paris] PHP Notice:  Undefined index: Favorit_Anime in C:\wamp\www\skicka\index.php on line 12
+[10-Feb-2016 13:35:27 Europe/Paris] PHP Stack trace:
+[10-Feb-2016 13:35:27 Europe/Paris] PHP   1. {main}() C:\wamp\www\skicka\index.php:0
+[10-Feb-2016 13:35:27 Europe/Paris] PHP Notice:  Undefined index: Tycker_du_att_du_är_cool? in C:\wamp\www\skicka\index.php on line 13
+[10-Feb-2016 13:35:27 Europe/Paris] PHP Stack trace:
+[10-Feb-2016 13:35:27 Europe/Paris] PHP   1. {main}() C:\wamp\www\skicka\index.php:0
+[10-Feb-2016 13:35:39 Europe/Paris] PHP Notice:  Undefined index: Namn in C:\wamp\www\skicka\index.php on line 5
+[10-Feb-2016 13:35:39 Europe/Paris] PHP Stack trace:
+[10-Feb-2016 13:35:39 Europe/Paris] PHP   1. {main}() C:\wamp\www\skicka\index.php:0
+[10-Feb-2016 13:35:39 Europe/Paris] PHP Notice:  Undefined index: Namn in C:\wamp\www\skicka\index.php on line 9
+[10-Feb-2016 13:35:39 Europe/Paris] PHP Stack trace:
+[10-Feb-2016 13:35:39 Europe/Paris] PHP   1. {main}() C:\wamp\www\skicka\index.php:0
+[10-Feb-2016 13:35:39 Europe/Paris] PHP Notice:  Undefined index: Efternamn in C:\wamp\www\skicka\index.php on line 10
+[10-Feb-2016 13:35:39 Europe/Paris] PHP Stack trace:
+[10-Feb-2016 13:35:39 Europe/Paris] PHP   1. {main}() C:\wamp\www\skicka\index.php:0
+[10-Feb-2016 13:35:39 Europe/Paris] PHP Notice:  Undefined index: Favorit_film in C:\wamp\www\skicka\index.php on line 11
+[10-Feb-2016 13:35:39 Europe/Paris] PHP Stack trace:
+[10-Feb-2016 13:35:39 Europe/Paris] PHP   1. {main}() C:\wamp\www\skicka\index.php:0
+[10-Feb-2016 13:35:39 Europe/Paris] PHP Notice:  Undefined index: Favorit_Anime in C:\wamp\www\skicka\index.php on line 12
+[10-Feb-2016 13:35:39 Europe/Paris] PHP Stack trace:
+[10-Feb-2016 13:35:39 Europe/Paris] PHP   1. {main}() C:\wamp\www\skicka\index.php:0
+[10-Feb-2016 13:35:39 Europe/Paris] PHP Notice:  Undefined index: Tycker_du_att_du_är_cool? in C:\wamp\www\skicka\index.php on line 13
+[10-Feb-2016 13:35:39 Europe/Paris] PHP Stack trace:
+[10-Feb-2016 13:35:39 Europe/Paris] PHP   1. {main}() C:\wamp\www\skicka\index.php:0
+[10-Feb-2016 13:43:33 Europe/Paris] PHP Notice:  Undefined index: Namn in C:\wamp\www\skicka\index.php on line 5
+[10-Feb-2016 13:43:33 Europe/Paris] PHP Stack trace:
+[10-Feb-2016 13:43:33 Europe/Paris] PHP   1. {main}() C:\wamp\www\skicka\index.php:0
+[10-Feb-2016 13:43:33 Europe/Paris] PHP Notice:  Undefined index: Namn in C:\wamp\www\skicka\index.php on line 9
+[10-Feb-2016 13:43:33 Europe/Paris] PHP Stack trace:
+[10-Feb-2016 13:43:33 Europe/Paris] PHP   1. {main}() C:\wamp\www\skicka\index.php:0
+[10-Feb-2016 13:43:33 Europe/Paris] PHP Notice:  Undefined index: Efternamn in C:\wamp\www\skicka\index.php on line 10
+[10-Feb-2016 13:43:33 Europe/Paris] PHP Stack trace:
+[10-Feb-2016 13:43:33 Europe/Paris] PHP   1. {main}() C:\wamp\www\skicka\index.php:0
+[10-Feb-2016 13:43:33 Europe/Paris] PHP Notice:  Undefined index: Favorit_film in C:\wamp\www\skicka\index.php on line 11
+[10-Feb-2016 13:43:33 Europe/Paris] PHP Stack trace:
+[10-Feb-2016 13:43:33 Europe/Paris] PHP   1. {main}() C:\wamp\www\skicka\index.php:0
+[10-Feb-2016 13:43:33 Europe/Paris] PHP Notice:  Undefined index: Favorit_Anime in C:\wamp\www\skicka\index.php on line 12
+[10-Feb-2016 13:43:33 Europe/Paris] PHP Stack trace:
+[10-Feb-2016 13:43:33 Europe/Paris] PHP   1. {main}() C:\wamp\www\skicka\index.php:0
+[10-Feb-2016 13:43:33 Europe/Paris] PHP Notice:  Undefined index: Tycker_du_att_du_är_cool? in C:\wamp\www\skicka\index.php on line 13
+[10-Feb-2016 13:43:33 Europe/Paris] PHP Stack trace:
+[10-Feb-2016 13:43:33 Europe/Paris] PHP   1. {main}() C:\wamp\www\skicka\index.php:0
+[10-Feb-2016 13:44:02 Europe/Paris] PHP Notice:  Undefined index: Namn in C:\wamp\www\skicka\index.php on line 5
+[10-Feb-2016 13:44:02 Europe/Paris] PHP Stack trace:
+[10-Feb-2016 13:44:02 Europe/Paris] PHP   1. {main}() C:\wamp\www\skicka\index.php:0
+[10-Feb-2016 13:44:02 Europe/Paris] PHP Notice:  Undefined index: Namn in C:\wamp\www\skicka\index.php on line 9
+[10-Feb-2016 13:44:02 Europe/Paris] PHP Stack trace:
+[10-Feb-2016 13:44:02 Europe/Paris] PHP   1. {main}() C:\wamp\www\skicka\index.php:0
+[10-Feb-2016 13:44:02 Europe/Paris] PHP Notice:  Undefined index: Efternamn in C:\wamp\www\skicka\index.php on line 10
+[10-Feb-2016 13:44:02 Europe/Paris] PHP Stack trace:
+[10-Feb-2016 13:44:02 Europe/Paris] PHP   1. {main}() C:\wamp\www\skicka\index.php:0
+[10-Feb-2016 13:44:02 Europe/Paris] PHP Notice:  Undefined index: Favorit_film in C:\wamp\www\skicka\index.php on line 11
+[10-Feb-2016 13:44:02 Europe/Paris] PHP Stack trace:
+[10-Feb-2016 13:44:02 Europe/Paris] PHP   1. {main}() C:\wamp\www\skicka\index.php:0
+[10-Feb-2016 13:44:02 Europe/Paris] PHP Notice:  Undefined index: Favorit_Anime in C:\wamp\www\skicka\index.php on line 12
+[10-Feb-2016 13:44:02 Europe/Paris] PHP Stack trace:
+[10-Feb-2016 13:44:02 Europe/Paris] PHP   1. {main}() C:\wamp\www\skicka\index.php:0
+[10-Feb-2016 13:44:02 Europe/Paris] PHP Notice:  Undefined index: Tycker_du_att_du_ar_cool? in C:\wamp\www\skicka\index.php on line 13
+[10-Feb-2016 13:44:02 Europe/Paris] PHP Stack trace:
+[10-Feb-2016 13:44:02 Europe/Paris] PHP   1. {main}() C:\wamp\www\skicka\index.php:0
+[22-Feb-2016 12:21:41 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'c:/wamp/bin/php/php5.5.12/ext/php_intl.dll' - The specified module could not be found.
+ in Unknown on line 0
+[22-Feb-2016 12:21:41 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'c:/wamp/bin/php/php5.5.12/ext/php_ldap.dll' - The specified module could not be found.
+ in Unknown on line 0
+[22-Feb-2016 12:21:42 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'c:/wamp/bin/php/php5.5.12/ext/php_intl.dll' - The specified module could not be found.
+ in Unknown on line 0
+[22-Feb-2016 12:21:42 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'c:/wamp/bin/php/php5.5.12/ext/php_ldap.dll' - The specified module could not be found.
+ in Unknown on line 0
+[26-Feb-2016 13:18:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'c:/wamp/bin/php/php5.5.12/ext/php_intl.dll' - The specified module could not be found.
+ in Unknown on line 0
+[26-Feb-2016 13:18:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'c:/wamp/bin/php/php5.5.12/ext/php_ldap.dll' - The specified module could not be found.
+ in Unknown on line 0
+[26-Feb-2016 13:18:28 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'c:/wamp/bin/php/php5.5.12/ext/php_intl.dll' - The specified module could not be found.
+ in Unknown on line 0
+[26-Feb-2016 13:18:28 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'c:/wamp/bin/php/php5.5.12/ext/php_ldap.dll' - The specified module could not be found.
+ in Unknown on line 0
+[04-Mar-2016 13:13:00 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'c:/wamp/bin/php/php5.5.12/ext/php_intl.dll' - The specified module could not be found.
+ in Unknown on line 0
+[04-Mar-2016 13:13:00 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'c:/wamp/bin/php/php5.5.12/ext/php_ldap.dll' - The specified module could not be found.
+ in Unknown on line 0
+[04-Mar-2016 13:13:01 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'c:/wamp/bin/php/php5.5.12/ext/php_intl.dll' - The specified module could not be found.
+ in Unknown on line 0
+[04-Mar-2016 13:13:01 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'c:/wamp/bin/php/php5.5.12/ext/php_ldap.dll' - The specified module could not be found.
+ in Unknown on line 0
+[04-Mar-2016 13:23:54 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'c:/wamp/bin/php/php5.5.12/ext/php_intl.dll' - The specified module could not be found.
+ in Unknown on line 0
+[04-Mar-2016 13:23:54 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'c:/wamp/bin/php/php5.5.12/ext/php_ldap.dll' - The specified module could not be found.
+ in Unknown on line 0
+[04-Mar-2016 13:23:55 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'c:/wamp/bin/php/php5.5.12/ext/php_intl.dll' - The specified module could not be found.
+ in Unknown on line 0
+[04-Mar-2016 13:23:55 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'c:/wamp/bin/php/php5.5.12/ext/php_ldap.dll' - The specified module could not be found.
+ in Unknown on line 0
+[06-Apr-2016 10:56:56 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'c:/wamp/bin/php/php5.5.12/ext/php_intl.dll' - The specified module could not be found.
+ in Unknown on line 0
+[06-Apr-2016 10:56:56 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'c:/wamp/bin/php/php5.5.12/ext/php_ldap.dll' - The specified module could not be found.
+ in Unknown on line 0
+[06-Apr-2016 10:56:56 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'c:/wamp/bin/php/php5.5.12/ext/php_intl.dll' - The specified module could not be found.
+ in Unknown on line 0
+[06-Apr-2016 10:56:56 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'c:/wamp/bin/php/php5.5.12/ext/php_ldap.dll' - The specified module could not be found.
+ in Unknown on line 0
+[18-Apr-2016 10:36:56 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'c:/wamp/bin/php/php5.5.12/ext/php_intl.dll' - The specified module could not be found.
+ in Unknown on line 0
+[18-Apr-2016 10:36:56 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'c:/wamp/bin/php/php5.5.12/ext/php_ldap.dll' - The specified module could not be found.
+ in Unknown on line 0
+[18-Apr-2016 10:36:57 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'c:/wamp/bin/php/php5.5.12/ext/php_intl.dll' - The specified module could not be found.
+ in Unknown on line 0
+[18-Apr-2016 10:36:57 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'c:/wamp/bin/php/php5.5.12/ext/php_ldap.dll' - The specified module could not be found.
+ in Unknown on line 0
+[20-Apr-2016 08:20:44 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'c:/wamp/bin/php/php5.5.12/ext/php_intl.dll' - The specified module could not be found.
+ in Unknown on line 0
+[20-Apr-2016 08:20:44 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'c:/wamp/bin/php/php5.5.12/ext/php_ldap.dll' - The specified module could not be found.
+ in Unknown on line 0
+[20-Apr-2016 08:20:44 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'c:/wamp/bin/php/php5.5.12/ext/php_intl.dll' - The specified module could not be found.
+ in Unknown on line 0
+[20-Apr-2016 08:20:44 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'c:/wamp/bin/php/php5.5.12/ext/php_ldap.dll' - The specified module could not be found.
+ in Unknown on line 0
